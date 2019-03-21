@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "bundle.css",
+  "sources": [
+    "..\\src\\App.html"
+  ],
+  "sourcesContent": [
+    "<h1>Hello {name}!</h1>\n\n<style>h1 {\n  color: #333; }\n</style>"
+  ],
+  "names": [],
+  "mappings": "AAEO,EAAE,cAAC,CAAC,AACT,KAAK,CAAE,IAAI,AAAE,CAAC"
+}
