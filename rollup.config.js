@@ -23,7 +23,7 @@ export default {
 			// enable run-time checks when not in production
 			dev: !production,
 			// Now all <style> elements in your components that have a type="text/sass"
-			//  or lang="sass" attribute will be preprocessed by sass.
+			// or lang="sass" attribute will be preprocessed by sass.
 			preprocess: {
         style: sass(),
       },
